@@ -11,3 +11,4 @@ A fun and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Pl
   🔹HTML :- Structure the game board.
   🔹CSS :- Style and enhance the user experience.
   🔹JavaScript :- Handle game logic, track moves, and check win conditions.
+![image alt](https://github.com/snigdha-samanta/SCT_WD_3/blob/main/Screenshot%202025-02-15%20203118.png?raw=true)
